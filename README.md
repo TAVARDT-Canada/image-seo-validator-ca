@@ -52,4 +52,12 @@ For Canadian digital platforms aligning with W3C WCAG Standards and Canadian Acc
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/ca/
+* **Diagnostic Suite:** https://tools.tavardt.com/ca/
+* **Technical Contact:** https://ag.tavardt.com/ca/contact/
+
+***
+
 © 2026 TAVARDT. All rights reserved.
