@@ -6,8 +6,6 @@
 
 Audits bilingual image accessibility, next-gen WebP/AVIF adoption, and layout stability.
 
-Developed and maintained by the bilingual accessibility and media optimization division of **TAVARDT**.
-
 ***
 
 ## Image SEO and Accessibility Audit Capabilities
@@ -38,15 +36,6 @@ python image_seo_validator.py https://company.ca -json
 
 ***
 
-## Comprehensive Web Diagnostic
-
-For full web verification and deep image catalog audits:
-
-* **Official Image SEO Checker Tool**
-* **TAVARDT Enterprise Portal**
-
-***
-
 ## Visual Accessibility and Media Optimization Advisory
 
 For Canadian digital platforms aligning with W3C WCAG Standards and Canadian Accessibility Guidelines, contact the specialists at **TAVARDT**.
@@ -62,7 +51,7 @@ For Canadian digital platforms aligning with W3C WCAG Standards and Canadian Acc
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
